@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Barrios_Salmoneros" id="Barrios_Salmoneros">
+	<SimpleField name="arclim_id" type="string"></SimpleField>
+	<SimpleField name="amen_SALFA" type="float"></SimpleField>
+	<SimpleField name="amen_SALPA" type="float"></SimpleField>
+	<SimpleField name="biomasa_ac" type="float"></SimpleField>
+	<SimpleField name="biomasa_pr" type="float"></SimpleField>
+	<SimpleField name="cambio_pre" type="float"></SimpleField>
+	<SimpleField name="condicion_" type="float"></SimpleField>
+	<SimpleField name="dependenci" type="string"></SimpleField>
+	<SimpleField name="dias_conse" type="float"></SimpleField>
+	<SimpleField name="dias_sobre" type="float"></SimpleField>
+	<SimpleField name="dominancia" type="float"></SimpleField>
+	<SimpleField name="edad_de_ag" type="string"></SimpleField>
+	<SimpleField name="expo_SALPA" type="float"></SimpleField>
+	<SimpleField name="expo_SALFA" type="float"></SimpleField>
+	<SimpleField name="frecuencia" type="float"></SimpleField>
+	<SimpleField name="ind_aguadu" type="float"></SimpleField>
+	<SimpleField name="ind_amen_c" type="float"></SimpleField>
+	<SimpleField name="ind_amen_d" type="float"></SimpleField>
+	<SimpleField name="ind_amen_s" type="float"></SimpleField>
+	<SimpleField name="ind_amen_T" type="float"></SimpleField>
+	<SimpleField name="ind_biomas" type="float"></SimpleField>
+	<SimpleField name="ind_edadag" type="float"></SimpleField>
+	<SimpleField name="ind_fan_SA" type="float"></SimpleField>
+	<SimpleField name="ind_salmos" type="float"></SimpleField>
+	<SimpleField name="ind_sanita" type="float"></SimpleField>
+	<SimpleField name="prevalenci" type="float"></SimpleField>
+	<SimpleField name="region" type="float"></SimpleField>
+	<SimpleField name="riesgo_SAL" type="float"></SimpleField>
+	<SimpleField name="riesgo_S_1" type="float"></SimpleField>
+	<SimpleField name="sensi_SALF" type="float"></SimpleField>
+	<SimpleField name="sensi_SALP" type="float"></SimpleField>
+	<SimpleField name="id_barrio" type="string"></SimpleField>
+</Schema>
+<Folder><name>Barrios_Salmoneros</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.3993,-48.99779 -74.39955,-48.90023 -74.30988,-48.89975 -74.30853,-48.99722 -74.3993,-48.99779</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.33992,-49.04878 -74.33851,-49.15269 -74.43022,-49.1532 -74.43144,-49.0493 -74.33992,-49.04878</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.45974,-49.58199 -74.42991,-49.63546 -74.5392,-49.69849 -74.5627,-49.62557 -74.45974,-49.58199</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.16427,-50.06669 -74.41859,-50.16042 -74.44997,-50.01099 -74.35266,-49.93635 -74.16427,-50.06669</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.55855,-51.29874 -73.91517,-51.30264 -73.92086,-51.06174 -73.56602,-51.05782 -73.55855,-51.29874</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.55855,-51.29874 -73.54783,-51.63785 -73.87031,-51.61461 -73.91517,-51.30264 -73.55855,-51.29874</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">43 B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.30112,-52.02744 -73.4146,-52.06788 -73.54961,-51.9225 -73.41741,-51.90344 -73.30112,-52.02744</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.56477,-51.59861 -72.75057,-51.73165 -73.37701,-51.52096 -73.14162,-51.40532 -72.56477,-51.59861</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">45</SimpleData>
+		<SimpleData name="amen_SALFA">1.250000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.250000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">52782.120199999997567</SimpleData>
+		<SimpleData name="biomasa_pr">7984.829099999999926</SimpleData>
+		<SimpleData name="cambio_pre">5.129000000000000</SimpleData>
+		<SimpleData name="condicion_">0.070000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-0.567000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-0.394000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">121-200</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">-0.043000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">4.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">7.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.055000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.050000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.75057,-51.73165 -72.56477,-51.59861 -72.40086,-51.8547 -72.93895,-51.83515 -73.23415,-51.93306 -73.34856,-51.57516 -73.30595,-51.5451 -72.75057,-51.73165</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">46</SimpleData>
+		<SimpleData name="amen_SALFA">1.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">32280.574000000000524</SimpleData>
+		<SimpleData name="biomasa_pr">9214.677999999999884</SimpleData>
+		<SimpleData name="cambio_pre">4.910000000000000</SimpleData>
+		<SimpleData name="condicion_">1.734900000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.675000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.004000000000000</SimpleData>
+		<SimpleData name="dominancia">47.625399999999999</SimpleData>
+		<SimpleData name="edad_de_ag">121-200</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.075000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">4.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">10.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.070000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.056000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.40086,-51.8547 -72.46755,-52.27318 -72.69986,-52.2779 -72.745,-52.00525 -72.97985,-52.00904 -72.93895,-51.83515 -72.40086,-51.8547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">47 A</SimpleData>
+		<SimpleData name="amen_SALFA">1.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">21571.149600000000646</SimpleData>
+		<SimpleData name="biomasa_pr">3499.813299999999799</SimpleData>
+		<SimpleData name="cambio_pre">4.774000000000000</SimpleData>
+		<SimpleData name="condicion_">0.882700000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.744000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.366000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.189000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">3.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.035000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.031500000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">47A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.69986,-52.2779 -73.00915,-52.30832 -72.93011,-52.19254 -72.91697,-52.15163 -72.71831,-52.15547 -72.69986,-52.2779</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">48</SimpleData>
+		<SimpleData name="amen_SALFA">1.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">67737.563399999999092</SimpleData>
+		<SimpleData name="biomasa_pr">10269.770099999999729</SimpleData>
+		<SimpleData name="cambio_pre">4.798000000000000</SimpleData>
+		<SimpleData name="condicion_">1.112400000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.244000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.224000000000000</SimpleData>
+		<SimpleData name="dominancia">89.093999999999994</SimpleData>
+		<SimpleData name="edad_de_ag">121-200</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.000000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">4.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">1.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">1.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.094500000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.105000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.250000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.93011,-52.19254 -73.00915,-52.30832 -73.12566,-52.27445 -73.16864,-52.15874 -72.97985,-52.00904 -72.8796,-52.00732 -72.93011,-52.19254</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.21412,-52.67211 -73.22481,-52.88054 -73.44469,-52.97274 -73.84007,-52.85646 -73.21412,-52.67211</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">52</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">25531.906100000003789</SimpleData>
+		<SimpleData name="biomasa_pr">12765.953100000000632</SimpleData>
+		<SimpleData name="cambio_pre">4.996000000000000</SimpleData>
+		<SimpleData name="condicion_">0.751000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-2.114000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-0.317000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.128000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.072000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.081000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.62596,-53.10878 -73.51891,-53.10742 -73.40643,-53.26624 -73.55054,-53.26807 -73.62596,-53.10878</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.72675,-53.33792 -73.15922,-53.11877 -72.94895,-52.94878 -72.61177,-53.16404 -72.72675,-53.33792</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">54 B</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">19057.550400000000081</SimpleData>
+		<SimpleData name="biomasa_pr">3800.893700000000081</SimpleData>
+		<SimpleData name="cambio_pre">6.137000000000000</SimpleData>
+		<SimpleData name="condicion_">0.000000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-0.464000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.191000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.058000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.020000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.024000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.666700000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">54B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.33125,-53.94604 -71.2983,-54.12318 -71.44557,-54.08758 -71.48457,-54.04176 -71.45501,-53.93933 -71.33125,-53.94604</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">55</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">24390.513100000003760</SimpleData>
+		<SimpleData name="biomasa_pr">2365.871599999999944</SimpleData>
+		<SimpleData name="cambio_pre">6.091000000000000</SimpleData>
+		<SimpleData name="condicion_">0.000000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-0.404000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.306000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.043000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">3.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.021000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.024000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.33125,-53.94604 -71.09885,-54.03557 -71.29652,-54.1328 -71.33125,-53.94604</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">56</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">42804.044199999996636</SimpleData>
+		<SimpleData name="biomasa_pr">3526.311200000000099</SimpleData>
+		<SimpleData name="cambio_pre">5.717000000000000</SimpleData>
+		<SimpleData name="condicion_">0.000000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-1.186000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-0.929000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.039000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">1.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">1.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.018000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.024000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.09885,-54.03557 -71.06193,-54.04975 -71.04825,-54.1448 -71.27472,-54.24938 -71.29652,-54.1328 -71.09885,-54.03557</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">57</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">34532.327299999997194</SimpleData>
+		<SimpleData name="biomasa_pr">8068.943500000000313</SimpleData>
+		<SimpleData name="cambio_pre">6.130000000000000</SimpleData>
+		<SimpleData name="condicion_">0.000000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-0.554000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.101000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.000000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.040000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.048000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.666700000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.50004,-54.54662 -71.69398,-54.44257 -71.50004,-54.54662 -71.70012,-54.59514 -72.02996,-54.44706 -71.75059,-54.37971 -71.69398,-54.44257 -71.50004,-54.54662</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">58</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">12436.742000000000189</SimpleData>
+		<SimpleData name="biomasa_pr">3621.556999999999789</SimpleData>
+		<SimpleData name="cambio_pre">5.520000000000000</SimpleData>
+		<SimpleData name="condicion_">0.000000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-0.567000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-0.716000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.011000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.020000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.024000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.666700000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.75059,-54.37971 -71.63816,-54.36553 -71.59036,-54.41993 -71.37348,-54.47871 -71.50004,-54.54662 -71.69398,-54.44257 -71.75059,-54.37971 -71.63816,-54.36553 -71.75059,-54.37971</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.313,-54.3551 -71.2909,-54.43406 -71.37348,-54.47871 -71.59036,-54.41993 -71.63816,-54.36553 -71.313,-54.3551</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.313,-54.3551 -71.15556,-54.42109 -71.21167,-54.47754 -71.2909,-54.43406 -71.313,-54.3551</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-67.21617,-54.95672 -67.51347,-54.93883 -67.51407,-54.90218 -67.2031,-54.93054 -67.21617,-54.95672</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-67.21617,-54.95672 -67.2031,-54.93054 -67.04285,-55.06637 -67.08331,-55.08056 -67.21617,-54.95672</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">47 B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.87907,-52.0083 -72.74437,-52.00513 -72.72146,-52.15413 -72.91879,-52.15225 -72.87907,-52.0083</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">49 A</SimpleData>
+		<SimpleData name="amen_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">23104.769000000000233</SimpleData>
+		<SimpleData name="biomasa_pr">7642.355999999999767</SimpleData>
+		<SimpleData name="cambio_pre">14.961000000000000</SimpleData>
+		<SimpleData name="condicion_">2.900000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">3.999000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.397000000000000</SimpleData>
+		<SimpleData name="dominancia">85.430099999999996</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">-0.902000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">11.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.048000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.040000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">49A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.46229,-52.49484 -71.38658,-52.46903 -71.37632,-52.61841 -72.25616,-52.61842 -72.4017,-52.62747 -72.45493,-52.65153 -72.46229,-52.49484</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">49 B</SimpleData>
+		<SimpleData name="amen_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">12577.155600000000049</SimpleData>
+		<SimpleData name="biomasa_pr">3627.721700000000055</SimpleData>
+		<SimpleData name="cambio_pre">14.961000000000000</SimpleData>
+		<SimpleData name="condicion_">0.096000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">3.999000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.397000000000000</SimpleData>
+		<SimpleData name="dominancia">0.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">-0.902000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">1.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">12.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.024000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.010000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">1.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">49B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.25491,-52.61846 -71.37764,-52.61975 -71.36085,-52.82976 -72.26518,-52.73822 -72.25491,-52.61846</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">50 A</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">26246.230400000000373</SimpleData>
+		<SimpleData name="biomasa_pr">7030.853699999999662</SimpleData>
+		<SimpleData name="cambio_pre">6.733000000000000</SimpleData>
+		<SimpleData name="condicion_">4.400000000000001</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-2.081000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.291000000000000</SimpleData>
+		<SimpleData name="dominancia">83.783199999999994</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.154000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.064000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.060000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.666700000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">50A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.48037,-52.66488 -72.39968,-52.62561 -72.25358,-52.61973 -72.367,-52.72415 -72.48037,-52.66488</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">50 B</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">39684.726300000002084</SimpleData>
+		<SimpleData name="biomasa_pr">3813.218899999999849</SimpleData>
+		<SimpleData name="cambio_pre">6.733000000000000</SimpleData>
+		<SimpleData name="condicion_">0.225800000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-2.081000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.291000000000000</SimpleData>
+		<SimpleData name="dominancia">68.577699999999993</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.154000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.032000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.024000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.666700000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">50B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.47942,-52.66532 -72.36775,-52.72454 -72.25405,-52.62012 -72.26399,-52.73319 -72.4967,-52.96256 -73.07651,-52.81618 -72.47942,-52.66532</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">54 A</SimpleData>
+		<SimpleData name="amen_SALFA">1.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">1.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">25792.175599999998667</SimpleData>
+		<SimpleData name="biomasa_pr">2557.461099999999988</SimpleData>
+		<SimpleData name="cambio_pre">6.137000000000000</SimpleData>
+		<SimpleData name="condicion_">0.000000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-0.464000000000000</SimpleData>
+		<SimpleData name="dias_sobre">-1.191000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">0.058000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">1.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">2.000000000000000</SimpleData>
+		<SimpleData name="region">12.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.021000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.024000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">54A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.57279,-53.93467 -71.45612,-53.93931 -71.4842,-54.04177 -71.57279,-53.93467</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">43 A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.67052,-51.79203 -73.55859,-51.75274 -73.41557,-51.90351 -73.54839,-51.92433 -73.67052,-51.79203</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">18 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">56834.803399999997055</SimpleData>
+		<SimpleData name="biomasa_pr">6340.569400000000314</SimpleData>
+		<SimpleData name="cambio_pre">-6.104000000000000</SimpleData>
+		<SimpleData name="condicion_">5.314000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-4.017000000000001</SimpleData>
+		<SimpleData name="dias_sobre">13.058000000000000</SimpleData>
+		<SimpleData name="dominancia">85.119500000000002</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.786000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">22.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.165000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.180000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">18A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.65834,-43.85077 -73.7998,-44.00384 -73.97493,-44.021 -74.36377,-43.92087 -73.97214,-43.69077 -73.65834,-43.85077</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">18 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">46429.226499999997031</SimpleData>
+		<SimpleData name="biomasa_pr">6091.968100000000049</SimpleData>
+		<SimpleData name="cambio_pre">-6.291000000000000</SimpleData>
+		<SimpleData name="condicion_">4.957500000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-4.208000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.509000000000000</SimpleData>
+		<SimpleData name="dominancia">82.350899999999996</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.048000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">4.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.098000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.140000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">18B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.53445,-44.4707 -73.7647,-44.37622 -73.62502,-44.37458 -73.68348,-44.29025 -73.58739,-44.19359 -73.70784,-43.90587 -73.65834,-43.85077 -73.40831,-43.98197 -73.45214,-44.32282 -73.53445,-44.4707</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">18 C</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">150756.064600000012433</SimpleData>
+		<SimpleData name="biomasa_pr">20908.838400000000547</SimpleData>
+		<SimpleData name="cambio_pre">-6.013000000000000</SimpleData>
+		<SimpleData name="condicion_">23.212700000000002</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.913000000000000</SimpleData>
+		<SimpleData name="dias_sobre">11.614000000000001</SimpleData>
+		<SimpleData name="dominancia">85.791300000000007</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.442000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">69.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.336000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.448000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">18C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.58739,-44.19359 -73.68348,-44.29025 -73.62502,-44.37458 -73.7647,-44.37622 -74.05528,-44.23943 -73.93082,-44.09485 -73.97493,-44.021 -73.7998,-44.00384 -73.70787,-43.90436 -73.58739,-44.19359</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">18 D</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">126691.658599999995204</SimpleData>
+		<SimpleData name="biomasa_pr">7664.315999999999804</SimpleData>
+		<SimpleData name="cambio_pre">-5.834000000000000</SimpleData>
+		<SimpleData name="condicion_">13.972600000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.810000000000000</SimpleData>
+		<SimpleData name="dias_sobre">11.295000000000000</SimpleData>
+		<SimpleData name="dominancia">79.098500000000001</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.291000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">29.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.182000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.182000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.250000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">18D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.53445,-44.4707 -73.52449,-44.58222 -73.71328,-44.51716 -73.85701,-44.47933 -73.92983,-44.54225 -73.96202,-44.45152 -74.05528,-44.23943 -73.7647,-44.37622 -73.53445,-44.4707</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">18 E</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.71328,-44.51716 -73.52449,-44.58222 -73.51665,-44.66926 -73.7738,-44.6622 -73.71328,-44.51716</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">19 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">131293.551600000006147</SimpleData>
+		<SimpleData name="biomasa_pr">21846.966499999998632</SimpleData>
+		<SimpleData name="cambio_pre">-5.543000000000000</SimpleData>
+		<SimpleData name="condicion_">19.979500000000002</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-2.824000000000000</SimpleData>
+		<SimpleData name="dias_sobre">13.169000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.309000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">14.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.336000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.392000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">19A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.97493,-44.021 -74.14258,-44.17564 -74.11925,-44.40345 -74.245,-44.36471 -74.54086,-44.37906 -74.46943,-44.09726 -73.97493,-44.021</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">19 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">61303.230300000002899</SimpleData>
+		<SimpleData name="biomasa_pr">4616.463300000000345</SimpleData>
+		<SimpleData name="cambio_pre">-5.465000000000000</SimpleData>
+		<SimpleData name="condicion_">7.524200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-2.908000000000000</SimpleData>
+		<SimpleData name="dias_sobre">12.625000000000000</SimpleData>
+		<SimpleData name="dominancia">71.944900000000004</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.276000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">6.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.070000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.077000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">19B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.96202,-44.45152 -73.92983,-44.54225 -74.58312,-44.46291 -74.54086,-44.37906 -74.245,-44.36471 -73.96202,-44.45152</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">19 C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.97493,-44.021 -73.93082,-44.09485 -74.05528,-44.23943 -73.96202,-44.45152 -74.11925,-44.40345 -74.14258,-44.17564 -73.97493,-44.021</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">21 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">108869.564400000002934</SimpleData>
+		<SimpleData name="biomasa_pr">13313.465399999999136</SimpleData>
+		<SimpleData name="cambio_pre">-5.251000000000000</SimpleData>
+		<SimpleData name="condicion_">10.214200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.342000000000000</SimpleData>
+		<SimpleData name="dias_sobre">11.695000000000000</SimpleData>
+		<SimpleData name="dominancia">89.297300000000007</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.098000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">6.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.231000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.294000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">21A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.79065,-44.91099 -74.48975,-45.00138 -74.8422,-44.68009 -74.04632,-44.62333 -73.96715,-44.80369 -73.83644,-44.80589 -73.79065,-44.91099</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">21 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">142764.061599999986356</SimpleData>
+		<SimpleData name="biomasa_pr">16547.601299999998446</SimpleData>
+		<SimpleData name="cambio_pre">-5.641000000000000</SimpleData>
+		<SimpleData name="condicion_">12.804200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-4.072000000000000</SimpleData>
+		<SimpleData name="dias_sobre">11.265000000000001</SimpleData>
+		<SimpleData name="dominancia">93.596900000000005</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.037000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">33.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.273000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.294000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.250000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">21B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.51665,-44.66926 -73.52784,-44.87584 -73.79065,-44.91099 -73.83644,-44.80589 -73.96715,-44.80369 -74.04632,-44.62333 -73.8244,-44.6065 -73.78329,-44.68496 -73.7738,-44.6622 -73.51665,-44.66926</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">21 C</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">167939.068200000008801</SimpleData>
+		<SimpleData name="biomasa_pr">28821.354200000001583</SimpleData>
+		<SimpleData name="cambio_pre">-5.294000000000000</SimpleData>
+		<SimpleData name="condicion_">42.134399999999999</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.537000000000000</SimpleData>
+		<SimpleData name="dias_sobre">11.265000000000001</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.971000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">6.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.336000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.448000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">21C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.52784,-44.87584 -73.69561,-45.09142 -74.14891,-45.04567 -74.23453,-45.07711 -74.45999,-45.03734 -74.48975,-45.00138 -73.52784,-44.87584</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">22 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">75950.783800000004703</SimpleData>
+		<SimpleData name="biomasa_pr">5751.673499999999876</SimpleData>
+		<SimpleData name="cambio_pre">-4.910000000000000</SimpleData>
+		<SimpleData name="condicion_">12.057300000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.601000000000000</SimpleData>
+		<SimpleData name="dias_sobre">11.099000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.715000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">3.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.108000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.156000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.250000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">22A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.06838,-45.34111 -74.21764,-45.36383 -74.22451,-45.21499 -74.42926,-45.20213 -74.45999,-45.03734 -74.23453,-45.07711 -74.14891,-45.04567 -74.09534,-45.05123 -74.06838,-45.34111</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">22 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">53043.980000000003201</SimpleData>
+		<SimpleData name="biomasa_pr">7581.300599999999577</SimpleData>
+		<SimpleData name="cambio_pre">-5.208000000000000</SimpleData>
+		<SimpleData name="condicion_">6.002400000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.506000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.566000000000001</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.650000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.112000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.168000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">22B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.69561,-45.09142 -73.76717,-45.30218 -74.06838,-45.34111 -74.09541,-45.05122 -73.69561,-45.09142</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">22 C</SimpleData>
+		<SimpleData name="amen_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">28118.180299999996350</SimpleData>
+		<SimpleData name="biomasa_pr">3309.464699999999993</SimpleData>
+		<SimpleData name="cambio_pre">-4.827000000000000</SimpleData>
+		<SimpleData name="condicion_">4.164900000000001</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.369000000000000</SimpleData>
+		<SimpleData name="dias_sobre">11.348000000000001</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.564000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">1.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">1.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.042000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.066000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">22C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.21764,-45.36383 -74.40418,-45.39199 -74.42926,-45.20213 -74.22451,-45.21499 -74.21764,-45.36383</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">22 D</SimpleData>
+		<SimpleData name="amen_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">127009.482799999997951</SimpleData>
+		<SimpleData name="biomasa_pr">10883.277799999999843</SimpleData>
+		<SimpleData name="cambio_pre">-4.682000000000000</SimpleData>
+		<SimpleData name="condicion_">11.552000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.916000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.395000000000000</SimpleData>
+		<SimpleData name="dominancia">91.965500000000006</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.422000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">13.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.216000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.252000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">22D</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.78646,-45.40838 -73.78307,-45.45497 -74.46594,-45.61538 -74.48372,-45.55314 -74.40418,-45.39199 -74.06838,-45.34111 -74.02135,-45.40882 -73.78646,-45.40838</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">23 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">107382.261799999992945</SimpleData>
+		<SimpleData name="biomasa_pr">7652.567100000000210</SimpleData>
+		<SimpleData name="cambio_pre">-4.755000000000000</SimpleData>
+		<SimpleData name="condicion_">7.781000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-4.770000000000000</SimpleData>
+		<SimpleData name="dias_sobre">9.401999999999999</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.419000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">2.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.120000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.156000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">23A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.78307,-45.45497 -73.86391,-45.59691 -74.17818,-45.61814 -74.23972,-45.56285 -73.78307,-45.45497</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">23 B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.86391,-45.59691 -73.88271,-45.7027 -74.01351,-45.87115 -74.37565,-45.93014 -74.46594,-45.61538 -74.23972,-45.56285 -74.17818,-45.61814 -73.86391,-45.59691</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">23 C</SimpleData>
+		<SimpleData name="amen_SALFA">2.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">2.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">111321.113800000006449</SimpleData>
+		<SimpleData name="biomasa_pr">8577.461400000000140</SimpleData>
+		<SimpleData name="cambio_pre">-4.040000000000000</SimpleData>
+		<SimpleData name="condicion_">9.477200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-2.473000000000000</SimpleData>
+		<SimpleData name="dias_sobre">9.993000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.133000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">3.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.110000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.143000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">23C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-74.48372,-45.55314 -74.37565,-45.93014 -74.30363,-45.97215 -74.4043,-46.07059 -74.5185,-46.06909 -74.53502,-45.95566 -75.19214,-46.05843 -75.00424,-45.60868 -74.48372,-45.55314</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">24</SimpleData>
+		<SimpleData name="amen_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">82424.736600000003818</SimpleData>
+		<SimpleData name="biomasa_pr">10857.876299999999901</SimpleData>
+		<SimpleData name="cambio_pre">-4.403000000000000</SimpleData>
+		<SimpleData name="condicion_">10.041499999999999</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-5.034000000000000</SimpleData>
+		<SimpleData name="dias_sobre">7.966000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.087000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">3.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.216000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.252000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.65452,-45.40795 -73.77727,-46.383 -74.04436,-46.23669 -74.01351,-45.87115 -73.88271,-45.7027 -73.86391,-45.59691 -73.78307,-45.45497 -73.78646,-45.40838 -73.65452,-45.40795</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">25 A</SimpleData>
+		<SimpleData name="amen_SALFA">2.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">2.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">87020.600999999995111</SimpleData>
+		<SimpleData name="biomasa_pr">15391.485500000000684</SimpleData>
+		<SimpleData name="cambio_pre">-4.383000000000000</SimpleData>
+		<SimpleData name="condicion_">16.414999999999999</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-5.082000000000000</SimpleData>
+		<SimpleData name="dias_sobre">7.182000000000000</SimpleData>
+		<SimpleData name="dominancia">93.622299999999996</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">1.621000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">3.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">5.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.231000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.264000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">25A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.38949,-46.24131 -73.60911,-46.21442 -73.33295,-45.93481 -73.3063,-45.99295 -73.38949,-46.24131</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">25 B</SimpleData>
+		<SimpleData name="amen_SALFA">2.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">2.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">99789.720000000001164</SimpleData>
+		<SimpleData name="biomasa_pr">4858.471400000000358</SimpleData>
+		<SimpleData name="cambio_pre">-4.124000000000000</SimpleData>
+		<SimpleData name="condicion_">6.670200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-4.942000000000000</SimpleData>
+		<SimpleData name="dias_sobre">6.929000000000000</SimpleData>
+		<SimpleData name="dominancia">98.859899999999996</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">1.755000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">3.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">12.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.080000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.075000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">25B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.38949,-46.24131 -73.42624,-46.35017 -73.77727,-46.383 -73.60911,-46.21442 -73.38949,-46.24131</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">26 A</SimpleData>
+		<SimpleData name="amen_SALFA">2.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">2.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">30932.061099999998987</SimpleData>
+		<SimpleData name="biomasa_pr">2908.297099999999773</SimpleData>
+		<SimpleData name="cambio_pre">-4.359000000000000</SimpleData>
+		<SimpleData name="condicion_">3.068200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-5.324000000000000</SimpleData>
+		<SimpleData name="dias_sobre">7.180000000000000</SimpleData>
+		<SimpleData name="dominancia">69.616399999999999</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">1.777000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">3.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">5.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.055000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.060500000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">26A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.51608,-45.85098 -73.57869,-46.18386 -73.77727,-46.383 -73.69274,-45.71506 -73.56528,-45.77545 -73.51608,-45.85098</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">26 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">60970.594400000001770</SimpleData>
+		<SimpleData name="biomasa_pr">8691.043200000000070</SimpleData>
+		<SimpleData name="cambio_pre">-5.102000000000000</SimpleData>
+		<SimpleData name="condicion_">8.767400000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-5.276000000000000</SimpleData>
+		<SimpleData name="dias_sobre">7.987000000000000</SimpleData>
+		<SimpleData name="dominancia">74.161100000000005</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.173000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">3.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">2.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.154000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.182000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">26B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.28162,-45.41942 -73.56528,-45.77545 -73.69274,-45.71506 -73.64726,-45.34865 -73.28162,-45.41942</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">27</SimpleData>
+		<SimpleData name="amen_SALFA">3.250000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.250000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">42978.446700000000419</SimpleData>
+		<SimpleData name="biomasa_pr">6301.054000000000087</SimpleData>
+		<SimpleData name="cambio_pre">-5.056000000000000</SimpleData>
+		<SimpleData name="condicion_">5.100000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-4.458000000000000</SimpleData>
+		<SimpleData name="dias_sobre">8.494000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">1.973000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">11.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.195000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.182000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.51608,-45.85098 -73.56528,-45.77545 -73.22928,-45.53385 -73.09599,-45.65997 -73.51608,-45.85098</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">28 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">128189.332500000004075</SimpleData>
+		<SimpleData name="biomasa_pr">15744.313399999999092</SimpleData>
+		<SimpleData name="cambio_pre">-5.386000000000000</SimpleData>
+		<SimpleData name="condicion_">8.515499999999999</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-4.464000000000001</SimpleData>
+		<SimpleData name="dias_sobre">9.475000000000000</SimpleData>
+		<SimpleData name="dominancia">59.558700000000002</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.628000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">14.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.315000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.294000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">28A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.29396,-45.32154 -73.38689,-45.37733 -73.37845,-45.40081 -73.64673,-45.34881 -73.63962,-45.28539 -73.30399,-45.24143 -73.29396,-45.32154</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">28 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">241430.474199999996927</SimpleData>
+		<SimpleData name="biomasa_pr">19142.892299999999523</SimpleData>
+		<SimpleData name="cambio_pre">-5.505000000000000</SimpleData>
+		<SimpleData name="condicion_">11.142500000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-3.908000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.351000000000001</SimpleData>
+		<SimpleData name="dominancia">45.706800000000001</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.727000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">15.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.336000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.336000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">28B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.28162,-45.41942 -73.304,-45.24156 -73.14953,-45.22112 -72.82255,-45.36682 -72.70561,-45.36643 -72.69543,-45.48801 -72.91471,-45.48946 -73.28162,-45.41942</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">28 C</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">6822.938900000000103</SimpleData>
+		<SimpleData name="biomasa_pr">2377.786399999999958</SimpleData>
+		<SimpleData name="cambio_pre">-5.403000000000000</SimpleData>
+		<SimpleData name="condicion_">0.700000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-5.252000000000000</SimpleData>
+		<SimpleData name="dias_sobre">8.778000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">1.987000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">1.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.074700000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.077000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.666700000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">28C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.29396,-45.32154 -73.28162,-45.41942 -73.37845,-45.40081 -73.38689,-45.37733 -73.29396,-45.32154</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">29</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">21491.210299999998824</SimpleData>
+		<SimpleData name="biomasa_pr">3218.238800000000083</SimpleData>
+		<SimpleData name="cambio_pre">-5.061000000000000</SimpleData>
+		<SimpleData name="condicion_">0.681900000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-4.213000000000000</SimpleData>
+		<SimpleData name="dias_sobre">9.785000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.494000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">4.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.070000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.077000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.65452,-45.40795 -74.02135,-45.40882 -74.06838,-45.34111 -73.63963,-45.28553 -73.65452,-45.40795</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">30 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">83241.331099999995786</SimpleData>
+		<SimpleData name="biomasa_pr">8228.430200000000696</SimpleData>
+		<SimpleData name="cambio_pre">-5.609000000000000</SimpleData>
+		<SimpleData name="condicion_">1.877500000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-4.083000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.013999999999999</SimpleData>
+		<SimpleData name="dominancia">84.525999999999996</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.449000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">5.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.154000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.182000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">30A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.23345,-44.96183 -73.27586,-45.23783 -73.44106,-45.25946 -73.52784,-44.87584 -73.2972,-44.92546 -73.23345,-44.96183</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">30 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">78371.652300000001560</SimpleData>
+		<SimpleData name="biomasa_pr">9348.111000000000786</SimpleData>
+		<SimpleData name="cambio_pre">-5.405000000000000</SimpleData>
+		<SimpleData name="condicion_">10.417500000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-3.882000000000000</SimpleData>
+		<SimpleData name="dias_sobre">9.750000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.664000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">3.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.154000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.210000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">30B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.52784,-44.87584 -73.44106,-45.25946 -73.76717,-45.30218 -73.69561,-45.09142 -73.52784,-44.87584</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">31 A</SimpleData>
+		<SimpleData name="amen_SALFA">3.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">37235.242200000000594</SimpleData>
+		<SimpleData name="biomasa_pr">3374.169300000000021</SimpleData>
+		<SimpleData name="cambio_pre">-6.026000000000000</SimpleData>
+		<SimpleData name="condicion_">4.885000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-4.564000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.135000000000000</SimpleData>
+		<SimpleData name="dominancia">66.084199999999996</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.465000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">11.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.084000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.077000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">31A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.16621,-44.70768 -73.11369,-44.8355 -73.2972,-44.92546 -73.42375,-44.84458 -73.47225,-44.65169 -73.16621,-44.70768</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">31 B</SimpleData>
+		<SimpleData name="amen_SALFA">3.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">61992.040699999990466</SimpleData>
+		<SimpleData name="biomasa_pr">5210.059199999999691</SimpleData>
+		<SimpleData name="cambio_pre">-6.298000000000000</SimpleData>
+		<SimpleData name="condicion_">3.219600000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-5.113000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.343999999999999</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.599000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">2.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">18.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.180000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.195000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">31B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.12327,-44.43658 -73.10603,-44.566 -73.16621,-44.70768 -73.47225,-44.65169 -73.31261,-44.27392 -73.12327,-44.43658</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">32</SimpleData>
+		<SimpleData name="amen_SALFA">3.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">259594.811400000005960</SimpleData>
+		<SimpleData name="biomasa_pr">27650.878799999998591</SimpleData>
+		<SimpleData name="cambio_pre">-6.503000000000000</SimpleData>
+		<SimpleData name="condicion_">20.129899999999999</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-5.836000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.369999999999999</SimpleData>
+		<SimpleData name="dominancia">78.057199999999995</SimpleData>
+		<SimpleData name="edad_de_ag">&gt;200</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.284000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">5.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">75.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.570000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.540000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.23345,-44.96183 -73.2972,-44.92546 -73.11369,-44.8355 -72.95536,-44.5568 -72.73673,-44.51978 -72.57624,-44.3109 -72.52496,-44.33469 -72.53945,-44.5284 -72.6849,-44.74069 -73.13263,-44.97608 -73.23345,-44.96183</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.20453,-43.814 -73.02347,-43.71749 -72.86755,-43.76755 -73.01193,-43.86766 -73.20453,-43.814</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">20</SimpleData>
+		<SimpleData name="amen_SALFA">3.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">127036.068199999994249</SimpleData>
+		<SimpleData name="biomasa_pr">10197.108399999999165</SimpleData>
+		<SimpleData name="cambio_pre">-5.372000000000000</SimpleData>
+		<SimpleData name="condicion_">15.442500000000001</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-3.111000000000000</SimpleData>
+		<SimpleData name="dias_sobre">12.010999999999999</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">3.129000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.240000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.315000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.666700000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.71328,-44.51716 -73.78329,-44.68496 -73.8244,-44.6065 -74.8422,-44.68009 -74.87699,-44.51881 -74.58312,-44.46291 -73.92983,-44.54225 -73.85701,-44.47933 -73.71328,-44.51716</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">33</SimpleData>
+		<SimpleData name="amen_SALFA">3.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">169110.419200000003912</SimpleData>
+		<SimpleData name="biomasa_pr">18295.589899999999034</SimpleData>
+		<SimpleData name="cambio_pre">-6.839000000000000</SimpleData>
+		<SimpleData name="condicion_">25.230899999999998</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-5.957000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.044000000000000</SimpleData>
+		<SimpleData name="dominancia">79.188999999999993</SimpleData>
+		<SimpleData name="edad_de_ag">121-200</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.913000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">4.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">41.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.382500000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.382500000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.250000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.06141,-44.10296 -72.65774,-44.41724 -72.73673,-44.51978 -73.12327,-44.43658 -73.31261,-44.27392 -73.31803,-44.2385 -73.19245,-44.23565 -73.24607,-44.17694 -73.06141,-44.10296</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">34</SimpleData>
+		<SimpleData name="amen_SALFA">3.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">3.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">143605.926100000011502</SimpleData>
+		<SimpleData name="biomasa_pr">21399.438200000000506</SimpleData>
+		<SimpleData name="cambio_pre">-6.879000000000000</SimpleData>
+		<SimpleData name="condicion_">13.424799999999999</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-5.084000000000000</SimpleData>
+		<SimpleData name="dias_sobre">10.224000000000000</SimpleData>
+		<SimpleData name="dominancia">81.853800000000007</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">2.637000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">4.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">17.000000000000000</SimpleData>
+		<SimpleData name="region">11.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.330000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.420000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.20453,-43.814 -73.01171,-43.86767 -73.06141,-44.10296 -73.24607,-44.17694 -73.19245,-44.23565 -73.31803,-44.2385 -73.31756,-43.90282 -73.20453,-43.814</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">1</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">291298.000000000000000</SimpleData>
+		<SimpleData name="biomasa_pr">33532.460200000001350</SimpleData>
+		<SimpleData name="cambio_pre">-9.856000000000000</SimpleData>
+		<SimpleData name="condicion_">9.686999999999999</SimpleData>
+		<SimpleData name="dependenci">Sal &lt; 20</SimpleData>
+		<SimpleData name="dias_conse">-8.609999999999999</SimpleData>
+		<SimpleData name="dias_sobre">16.492999999999999</SimpleData>
+		<SimpleData name="dominancia">1.547800000000000</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">9.808000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">1.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">203.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.900000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.700000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.62733,-41.74994 -72.64859,-41.69444 -72.43586,-41.64988 -72.32866,-41.35423 -72.23343,-41.39752 -72.32785,-41.73612 -72.62733,-41.74994</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">2</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">430435.967799999983981</SimpleData>
+		<SimpleData name="biomasa_pr">61330.055899999999383</SimpleData>
+		<SimpleData name="cambio_pre">-9.888999999999999</SimpleData>
+		<SimpleData name="condicion_">44.926000000000002</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-8.308999999999999</SimpleData>
+		<SimpleData name="dias_sobre">15.583000000000000</SimpleData>
+		<SimpleData name="dominancia">60.353400000000001</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">9.779999999999999</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">224.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.800000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.850000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.62733,-41.74994 -72.80776,-41.97105 -73.00675,-41.86614 -73.14113,-41.48448 -72.79957,-41.42653 -72.58648,-41.68146 -72.62733,-41.74994</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">3 B</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">142517.988699999987148</SimpleData>
+		<SimpleData name="biomasa_pr">13948.770200000000841</SimpleData>
+		<SimpleData name="cambio_pre">-9.481999999999999</SimpleData>
+		<SimpleData name="condicion_">13.018400000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-9.013999999999999</SimpleData>
+		<SimpleData name="dias_sobre">14.878000000000000</SimpleData>
+		<SimpleData name="dominancia">54.376300000000001</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">9.669000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">20.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.390000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.450000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.250000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">3B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.16054,-41.79776 -73.04568,-41.89958 -73.09609,-41.94576 -73.47758,-41.79966 -73.25239,-41.70216 -73.12886,-41.76848 -73.16054,-41.79776</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.48253,-41.5421 -73.50878,-41.66318 -73.80076,-41.63653 -73.82908,-41.53352 -73.48253,-41.5421</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.55799,-41.77977 -73.74282,-41.91945 -73.97333,-41.86363 -73.97386,-41.7448 -73.55799,-41.77977</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">6</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">63993.473299999997835</SimpleData>
+		<SimpleData name="biomasa_pr">43347.728899999994610</SimpleData>
+		<SimpleData name="cambio_pre">-8.930000000000000</SimpleData>
+		<SimpleData name="condicion_">0.894000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-8.272000000000000</SimpleData>
+		<SimpleData name="dias_sobre">15.089000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">8.862000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">35.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.600000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.600000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.41239,-42.09052 -73.59734,-41.94662 -73.48154,-41.79909 -73.35704,-41.84596 -73.41239,-42.09052</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">7</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">118461.861499999999069</SimpleData>
+		<SimpleData name="biomasa_pr">18971.087700000003679</SimpleData>
+		<SimpleData name="cambio_pre">-8.613000000000000</SimpleData>
+		<SimpleData name="condicion_">7.095200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-8.125000000000000</SimpleData>
+		<SimpleData name="dias_sobre">15.288000000000000</SimpleData>
+		<SimpleData name="dominancia">38.644900000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">8.803000000000003</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">50.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.390000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.360000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.250000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.41239,-42.09052 -73.1949,-42.13021 -73.41878,-42.27966 -73.53571,-42.12352 -73.41239,-42.09052</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">8</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">174529.957400000013877</SimpleData>
+		<SimpleData name="biomasa_pr">17829.518199999998615</SimpleData>
+		<SimpleData name="cambio_pre">-8.651999999999999</SimpleData>
+		<SimpleData name="condicion_">11.194400000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-8.567000000000000</SimpleData>
+		<SimpleData name="dias_sobre">14.779999999999999</SimpleData>
+		<SimpleData name="dominancia">40.093100000000000</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">8.173000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">3.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.300000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.420000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.1949,-42.13021 -72.91183,-42.17997 -73.10651,-42.42737 -73.35326,-42.33507 -73.41878,-42.27966 -73.1949,-42.13021</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">9 B</SimpleData>
+		<SimpleData name="amen_SALFA">4.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">98854.273199999995995</SimpleData>
+		<SimpleData name="biomasa_pr">15539.663099999999758</SimpleData>
+		<SimpleData name="cambio_pre">-8.374000000000002</SimpleData>
+		<SimpleData name="condicion_">15.749900000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-7.945000000000000</SimpleData>
+		<SimpleData name="dias_sobre">14.539000000000000</SimpleData>
+		<SimpleData name="dominancia">70.653599999999997</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">7.842000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">21.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.313500000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.370500000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.250000000000000</SimpleData>
+		<SimpleData name="id_barrio">9B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.10651,-42.42737 -73.06144,-42.52368 -73.37203,-42.52387 -73.38649,-42.41863 -73.35111,-42.33583 -73.10651,-42.42737</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">9 A</SimpleData>
+		<SimpleData name="amen_SALFA">4.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">207899.825400000001537</SimpleData>
+		<SimpleData name="biomasa_pr">20824.037199999998847</SimpleData>
+		<SimpleData name="cambio_pre">-8.263999999999999</SimpleData>
+		<SimpleData name="condicion_">12.154500000000001</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-6.534000000000000</SimpleData>
+		<SimpleData name="dias_sobre">15.721000000000000</SimpleData>
+		<SimpleData name="dominancia">67.829700000000003</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">8.333000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">12.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.456000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.570000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">9A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.41878,-42.27966 -73.35163,-42.33691 -73.38689,-42.41806 -73.37203,-42.52387 -73.36614,-42.56905 -73.68983,-42.36617 -73.41878,-42.27966</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">10 A</SimpleData>
+		<SimpleData name="amen_SALFA">4.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">276300.822800000023562</SimpleData>
+		<SimpleData name="biomasa_pr">28172.690500000000611</SimpleData>
+		<SimpleData name="cambio_pre">-7.996000000000000</SimpleData>
+		<SimpleData name="condicion_">19.847100000000001</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-6.833000000000000</SimpleData>
+		<SimpleData name="dias_sobre">15.702999999999999</SimpleData>
+		<SimpleData name="dominancia">75.618399999999994</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">8.118000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">4.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">25.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.540000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.540000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">10A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.68983,-42.36617 -73.36614,-42.56905 -73.36137,-42.6335 -73.26122,-42.70456 -73.5633,-42.704 -73.59403,-42.63192 -73.88178,-42.5349 -73.68983,-42.36617</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">11</SimpleData>
+		<SimpleData name="amen_SALFA">4.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">299215.686300000001211</SimpleData>
+		<SimpleData name="biomasa_pr">32653.379600000000210</SimpleData>
+		<SimpleData name="cambio_pre">-7.761000000000000</SimpleData>
+		<SimpleData name="condicion_">28.733200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-8.068000000000000</SimpleData>
+		<SimpleData name="dias_sobre">13.625000000000000</SimpleData>
+		<SimpleData name="dominancia">51.592900000000000</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">6.964000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">32.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.630000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.675000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.37715,-43.16595 -73.67652,-43.03501 -73.78367,-42.84106 -73.65142,-42.73786 -73.19344,-42.94948 -73.37715,-43.16595</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">12 A</SimpleData>
+		<SimpleData name="amen_SALFA">4.250000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.250000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">166627.442799999989802</SimpleData>
+		<SimpleData name="biomasa_pr">12896.908600000000661</SimpleData>
+		<SimpleData name="cambio_pre">-7.434000000000000</SimpleData>
+		<SimpleData name="condicion_">5.618900000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-6.814000000000000</SimpleData>
+		<SimpleData name="dias_sobre">13.041000000000000</SimpleData>
+		<SimpleData name="dominancia">58.478700000000003</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">6.496000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">2.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">2.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.255000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.306000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">12A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.67652,-43.03501 -73.37715,-43.16595 -73.5931,-43.33711 -73.85583,-43.21127 -73.67652,-43.03501</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">12 B</SimpleData>
+		<SimpleData name="amen_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">46830.589200000002165</SimpleData>
+		<SimpleData name="biomasa_pr">4417.375600000000304</SimpleData>
+		<SimpleData name="cambio_pre">-7.022000000000000</SimpleData>
+		<SimpleData name="condicion_">5.700000000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-4.860000000000000</SimpleData>
+		<SimpleData name="dias_sobre">13.268000000000001</SimpleData>
+		<SimpleData name="dominancia">82.946899999999999</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">6.266000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.042700000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.088000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.333300000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">12B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.85583,-43.21127 -73.5931,-43.33711 -73.7682,-43.50751 -73.91117,-43.34469 -73.85583,-43.21127</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">12 C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.91117,-43.34469 -73.7682,-43.50751 -74.28555,-43.48882 -74.39771,-43.27023 -73.91117,-43.34469</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.75899,-43.15398 -73.06511,-43.44497 -73.15577,-43.43184 -72.91584,-43.11679 -72.75899,-43.15398</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">15</SimpleData>
+		<SimpleData name="amen_SALFA">4.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">49207.814200000000710</SimpleData>
+		<SimpleData name="biomasa_pr">4441.723500000000058</SimpleData>
+		<SimpleData name="cambio_pre">-8.359000000000000</SimpleData>
+		<SimpleData name="condicion_">5.355900000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-7.973000000000000</SimpleData>
+		<SimpleData name="dias_sobre">13.302000000000000</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">1.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">1.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">5.641000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">2.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.050700000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.104500000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.333300000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.87038,-42.60101 -72.88127,-42.84896 -73.19684,-42.74243 -73.01068,-42.51519 -72.87038,-42.60101</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">14</SimpleData>
+		<SimpleData name="amen_SALFA">4.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">127776.984700000000885</SimpleData>
+		<SimpleData name="biomasa_pr">13262.927799999999479</SimpleData>
+		<SimpleData name="cambio_pre">-8.305999999999999</SimpleData>
+		<SimpleData name="condicion_">13.733300000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;32</SimpleData>
+		<SimpleData name="dias_conse">-9.047000000000001</SimpleData>
+		<SimpleData name="dias_sobre">12.332000000000001</SimpleData>
+		<SimpleData name="dominancia">85.792800000000000</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">5.064000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">1.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">1.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">1.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.199500000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.399000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">1.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.500000000000000</SimpleData>
+		<SimpleData name="id_barrio">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.88127,-42.84896 -72.87038,-42.60101 -72.72558,-42.69312 -72.69086,-43.10536 -72.894,-43.093 -72.88127,-42.84896</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">16</SimpleData>
+		<SimpleData name="amen_SALFA">4.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">138734.882600000011735</SimpleData>
+		<SimpleData name="biomasa_pr">15547.198500000000422</SimpleData>
+		<SimpleData name="cambio_pre">-8.824999999999999</SimpleData>
+		<SimpleData name="condicion_">15.721299999999999</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-8.766999999999999</SimpleData>
+		<SimpleData name="dias_sobre">13.347000000000000</SimpleData>
+		<SimpleData name="dominancia">83.432100000000005</SimpleData>
+		<SimpleData name="edad_de_ag">61-120</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">6.628000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">3.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">22.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.427500000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.456000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.87038,-42.60101 -72.85672,-42.24516 -72.45088,-42.57387 -72.50228,-42.60629 -72.79095,-42.51829 -72.83808,-42.62156 -72.87038,-42.60101</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">17 A</SimpleData>
+		<SimpleData name="amen_SALFA">4.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">216897.486899999988964</SimpleData>
+		<SimpleData name="biomasa_pr">21529.709999999999127</SimpleData>
+		<SimpleData name="cambio_pre">-9.164000000000000</SimpleData>
+		<SimpleData name="condicion_">23.121800000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-8.638000000000000</SimpleData>
+		<SimpleData name="dias_sobre">14.451000000000001</SimpleData>
+		<SimpleData name="dominancia">84.225899999999996</SimpleData>
+		<SimpleData name="edad_de_ag">121-200</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">7.989000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">4.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">52.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.684000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.722000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">17A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.85672,-42.24516 -72.62053,-42.12842 -72.23769,-42.16085 -72.40715,-42.54242 -72.62444,-42.2378 -72.78303,-42.30517 -72.85672,-42.24516</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">17 B</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">185955.538900000014110</SimpleData>
+		<SimpleData name="biomasa_pr">19546.769499999998516</SimpleData>
+		<SimpleData name="cambio_pre">-9.474000000000000</SimpleData>
+		<SimpleData name="condicion_">13.442100000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;20 y &lt;26</SimpleData>
+		<SimpleData name="dias_conse">-8.824999999999999</SimpleData>
+		<SimpleData name="dias_sobre">14.672000000000001</SimpleData>
+		<SimpleData name="dominancia">56.686399999999999</SimpleData>
+		<SimpleData name="edad_de_ag">121-200</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">8.779000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">4.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">3.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">4.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">38.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.540000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.480000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">4.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">17B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-72.62053,-42.12842 -72.80776,-41.97105 -72.42182,-41.9506 -72.4416,-42.14161 -72.62053,-42.12842</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">3 A</SimpleData>
+		<SimpleData name="amen_SALFA">5.000000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">5.000000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">103605.735899999999674</SimpleData>
+		<SimpleData name="biomasa_pr">13418.461900000000242</SimpleData>
+		<SimpleData name="cambio_pre">-9.667999999999999</SimpleData>
+		<SimpleData name="condicion_">6.701200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal&gt;26 y &lt;30</SimpleData>
+		<SimpleData name="dias_conse">-8.803000000000003</SimpleData>
+		<SimpleData name="dias_sobre">15.333000000000000</SimpleData>
+		<SimpleData name="dominancia">14.418799999999999</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">3.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">3.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">9.650000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">3.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">5.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">1.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">3.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">45.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.420000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.360000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.500000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">3.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">3A</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.16054,-41.79776 -73.1272,-41.76854 -73.25303,-41.70186 -73.09034,-41.63089 -73.00573,-41.86727 -73.04529,-41.89919 -73.16054,-41.79776</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">9 C</SimpleData>
+		<SimpleData name="amen_SALFA">4.750000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.750000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">75894.692299999995157</SimpleData>
+		<SimpleData name="biomasa_pr">5498.001900000000205</SimpleData>
+		<SimpleData name="cambio_pre">-8.237000000000000</SimpleData>
+		<SimpleData name="condicion_">4.435200000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-7.974000000000000</SimpleData>
+		<SimpleData name="dias_sobre">14.048999999999999</SimpleData>
+		<SimpleData name="dominancia">100.000000000000000</SimpleData>
+		<SimpleData name="edad_de_ag">0-30</SimpleData>
+		<SimpleData name="expo_SALPA">2.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">2.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">6.843000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">3.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">1.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">5.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">1.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">62.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.209000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.209000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">2.750000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">2.750000000000000</SimpleData>
+		<SimpleData name="id_barrio">9C</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.3728,-42.52439 -73.06193,-42.52338 -73.26194,-42.70316 -73.36069,-42.63215 -73.3728,-42.52439</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Barrios_Salmoneros">
+		<SimpleData name="arclim_id">10 B</SimpleData>
+		<SimpleData name="amen_SALFA">4.500000000000000</SimpleData>
+		<SimpleData name="amen_SALPA">4.500000000000000</SimpleData>
+		<SimpleData name="biomasa_ac">148015.398300000000745</SimpleData>
+		<SimpleData name="biomasa_pr">21877.505300000000716</SimpleData>
+		<SimpleData name="cambio_pre">-7.842000000000000</SimpleData>
+		<SimpleData name="condicion_">22.217800000000000</SimpleData>
+		<SimpleData name="dependenci">Sal &gt;30 y &lt;32</SimpleData>
+		<SimpleData name="dias_conse">-7.287000000000000</SimpleData>
+		<SimpleData name="dias_sobre">15.707000000000001</SimpleData>
+		<SimpleData name="dominancia">89.720600000000005</SimpleData>
+		<SimpleData name="edad_de_ag">31-60</SimpleData>
+		<SimpleData name="expo_SALPA">4.000000000000000</SimpleData>
+		<SimpleData name="expo_SALFA">4.000000000000000</SimpleData>
+		<SimpleData name="frecuencia">7.731000000000000</SimpleData>
+		<SimpleData name="ind_aguadu">2.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_c">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_d">5.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_s">4.000000000000000</SimpleData>
+		<SimpleData name="ind_amen_T">5.000000000000000</SimpleData>
+		<SimpleData name="ind_biomas">4.000000000000000</SimpleData>
+		<SimpleData name="ind_edadag">2.000000000000000</SimpleData>
+		<SimpleData name="ind_fan_SA">4.000000000000000</SimpleData>
+		<SimpleData name="ind_salmos">5.000000000000000</SimpleData>
+		<SimpleData name="ind_sanita">5.000000000000000</SimpleData>
+		<SimpleData name="prevalenci">12.000000000000000</SimpleData>
+		<SimpleData name="region">10.000000000000000</SimpleData>
+		<SimpleData name="riesgo_SAL">0.432000000000000</SimpleData>
+		<SimpleData name="riesgo_S_1">0.576000000000000</SimpleData>
+		<SimpleData name="sensi_SALF">3.000000000000000</SimpleData>
+		<SimpleData name="sensi_SALP">4.000000000000000</SimpleData>
+		<SimpleData name="id_barrio">10B</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-73.88104,-42.5348 -73.59337,-42.63195 -73.5626,-42.70458 -73.26038,-42.70404 -73.41198,-42.84766 -73.65079,-42.73829 -73.88104,-42.5348</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
